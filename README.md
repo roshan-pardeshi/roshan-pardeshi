@@ -1,16 +1,17 @@
-## Hi there 👋
+<img width="1983" height="793" alt="ChatGPT Image May 21, 2026, 09_17_15 PM" src="https://github.com/user-attachments/assets/99b28aba-c8b9-4f14-93c3-8b830509b3fc" />
 
-<!--
-**roshan-pardeshi/roshan-pardeshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi 👋 I'm Roshan Pardeshi
+
+<img width="100%" src="https://github.com/user-attachments/assets/99b28aba-c8b9-4f14-93c3-8b830509b3fc" />
+
+🚀 AI Developer | Full Stack Enthusiast
+
+## 🛠 Tech Stack
+Python • Flask • Flutter • Firebase • MySQL
+
+## 🌟 Featured Projects
+- AI Career Assistant
+- CareConnect
+- Jarvis AI
