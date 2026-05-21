@@ -4,7 +4,7 @@
 
 # Hi 👋 I'm Roshan Pardeshi
 
-<img width="100%" src="https://github.com/user-attachments/assets/99b28aba-c8b9-4f14-93c3-8b830509b3fc" />
+
 
 🚀 AI Developer | Full Stack Enthusiast
 
